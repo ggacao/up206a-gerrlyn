@@ -1,3 +1,7 @@
+**Gerrlyn Gacao
+UP 206a
+12/1/20**
+
 At the Mapathon, I was really excited to be able to attend the QGIS workshop. I have some previous experience using ArcGIS in the past, but have never used QGIS 
 before and was not too familiar with it. During the workshop, the facilitator first did an overview of different types of data and provided an overview of how 
 data is manipulated for geospatial analysis. Upon getting acquainted with QGIS, she had us download the program as well as a few data sets to explore apartments 
